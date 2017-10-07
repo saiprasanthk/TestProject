@@ -8,7 +8,7 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
 
     TextView textView2;
-    EditText editText1;
+    EditText editText11111;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
