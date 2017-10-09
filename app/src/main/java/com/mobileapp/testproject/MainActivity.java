@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.widget.EditText;
 import android.widget.TextView;
 
-public class MainActivity    extends AppCompatActivity {
+public class MainActivit extends AppCompatActivity {
 
     TextView textView2;
     EditText editText123456;
@@ -16,5 +16,7 @@ public class MainActivity    extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         textView2 = (TextView)findViewById(R.id.text);
+        textView2 = (TextView)findViewById(R.id.text);textView2 = (TextView)findViewById(R.id.text);textView2 = (TextView)findViewById(R.id.text);textView2 = (TextView)findViewById(R.id.text);textView2 = (TextView)findViewById(R.id.text);
+
     }
 }
